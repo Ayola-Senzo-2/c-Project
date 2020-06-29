@@ -1,2 +1,2 @@
 # c-Project
-notes about c++
+Repo for notes about c++ 
